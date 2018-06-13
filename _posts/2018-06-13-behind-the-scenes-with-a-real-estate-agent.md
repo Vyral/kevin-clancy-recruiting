@@ -21,7 +21,9 @@ youtube_code: eaLEj4OXRpc
 
 {% include youtube.html %}
 
-Today I want to share a unique experience I had recently that will give you a little insight about what goes on behind the scenes in the life of an agent.
+<p style="text-align: center;"><em>Today I want to share a unique experience I had recently that will give you a little insight about what goes on behind the scenes in the life of an agent.</em></p>
+
+<center>&nbsp;</center>
 
 The real estate market continues to be very, very active.
 
