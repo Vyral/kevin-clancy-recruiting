@@ -21,7 +21,9 @@ youtube_code: 6V3Hm1ftTl0
 
 {% include youtube.html %}
 
-The dirtiest word—or words—in real estate is “real estate appraiser.” Here’s why.
+<p style="text-align: center;"><em>The dirtiest word—or words—in real estate is “real estate appraiser.” Here’s why.</em></p>
+
+<center>&nbsp;</center>
 
 What makes “real estate appraiser” the three dirtiest words in real estate? To understand, let’s take a look at what’s happening in our current market.&nbsp;
 
