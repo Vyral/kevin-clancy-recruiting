@@ -19,7 +19,9 @@ youtube_code: ClJ5C6dUkjg
 
 {% include youtube.html %}
 
-Real estate commissions have stayed flat over the years, even though the legwork for agents has dramatically increased. Here’s the reason why.
+<p style="text-align: center;"><em>Real estate commissions have stayed flat over the years, even though the legwork for agents has dramatically increased. Here’s the reason why.</em></p>
+
+<center>&nbsp;</center>
 
 It’s spring, the market is robust, and we’re seeing a ton of activity in the market. However, today I want to talk about something a little different: commission rates.
 
