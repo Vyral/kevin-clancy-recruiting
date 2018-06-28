@@ -23,7 +23,9 @@ youtube_code: cD9e3i-WD6s
 
 {% include youtube.html %}
 
-If you have a negative attitude about working in the real estate business, you should probably consider looking into another career. Here’s why.
+<p style="text-align: center;"><em>If you have a negative attitude about working in the real estate business, you should probably consider looking into another career. Here’s why.</em></p>
+
+<center>&nbsp;</center>
 
 If you’re a real estate agent and you don’t feel as if we work in the greatest business in the world, you should consider looking into another career.&nbsp;
 
