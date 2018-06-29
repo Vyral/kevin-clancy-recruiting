@@ -29,7 +29,7 @@ youtube_code: cD9e3i-WD6s
 
 If you’re a real estate agent and you don’t feel as if we work in the greatest business in the world, you should consider looking into another career.&nbsp;
 
-I say this because I recently came across several posts on the Capital Region Real Estate Agents facebook group, and 60% of them were negative posts that complained about what other Realtors were doing.&nbsp;
+I say this because I recently came across several posts on the Capital Region Real Estate Agents Facebook group, and 60% of them were negative posts that complained about what other Realtors were doing.&nbsp;
 
 Well, guess what? We’re in the greatest business in the world at the greatest possible time. **Technology is increasing our efficiency and making it so much easier to do our jobs than it was 10 or even five years ago.** Yet, we’re still complaining.&nbsp;
 
