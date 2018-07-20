@@ -19,7 +19,7 @@ youtube_code: tTi3lM-cqfY
 
 {% include youtube.html %}
 
-The real estate business is constantly changing. Here’s why you need to be constantly learning unless you want to fall behind.
+<p style="text-align: center;"><em>The real estate business is constantly changing. Here’s why you need to be constantly learning unless you want to fall behind.</em></p>
 
 I’m heading to Las Vegas to spend a week with Mike Ferry and I’m very much looking forward to it. If you haven’t been to a conference like this in a while, it’s time to hop on a plane and learn.
 
