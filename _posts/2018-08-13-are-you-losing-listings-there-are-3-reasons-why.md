@@ -20,7 +20,7 @@ youtube_code: yO6y8dD9dDU
 
 {% include youtube.html %}
 
-There are three main reasons why agents lose out on listings even after going on appointments. Being able to identify and avoid each will be essential to your success.
+<p style="text-align: center;"><em>There are three main reasons why agents lose out on listings even after going on appointments. Being able to identify and avoid each will be essential to your success.</em></p>
 
 I recently spent a week in Vegas for a fantastic training seminar with Mike Ferry, and while I was there, I noticed something: **A lot of people want wealth and success, but few people want to put in the work to earn it.** Playing the slot machines is one thing, but working in real estate is another. As you probably already know, being a successful real estate professional requires a lot of hard work.&nbsp;
 
