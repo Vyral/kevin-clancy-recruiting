@@ -24,7 +24,7 @@ youtube_code: yO6y8dD9dDU
 
 I recently spent a week in Vegas for a fantastic training seminar with Mike Ferry, and while I was there, I noticed something: **A lot of people want wealth and success, but few people want to put in the work to earn it.** Playing the slot machines is one thing, but working in real estate is another. As you probably already know, being a successful real estate professional requires a lot of hard work.&nbsp;
 
-So what happens if you’re already putting in the work but aren’t seeing the results you want? This is what I’ll be talking about today. Specifically, I’d like to highlight the three main reasons why you’re losing listings even going on numerous appointments.&nbsp;
+So what happens if you’re already putting in the work but aren’t seeing the results you want? Today I’d like to highlight the three main reasons why you’re losing listings, even when going on numerous appointments.&nbsp;
 
 <br>**1. You lack energy.** There’s nothing worse than going into a listing appointment devoid of enthusiasm. Always show up prepared, excited, and with a smile on your face.
 
