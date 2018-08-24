@@ -19,7 +19,7 @@ youtube_code: YKvM2BWOhiE
 
 {% include youtube.html %}
 
-Today I am going to talk about why you need to know your four pillars of income.
+<p style="text-algin: center;"><em>Today I am going to talk about why you need to know your four pillars of income.</em></p>
 
 I have been training for my first marathon and tomorrow I am going to go out and run 20 miles. You don't do this kind of running without planning. A few weeks ago, I ran in a mud race. Before I started I thought about how I wanted to run it and visualized running it in my mind.
 
