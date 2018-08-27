@@ -29,7 +29,7 @@ In real estate, the same idea exists. If you don't have a plan, you plan to fail
 
 {% include pullquote.html %}
 
-**My question is this: How is that part of the plan?** He could be sending these fliers in the mail, but instead he is wasting the one thing that we don't have an abundance of – time – &nbsp;by going door-to-door and leaving fliers. He is going to think that door-knocking doesn't work because nobody will call from the flier. In reality, what he did isn’t even considered door-knocking.
+**My question is this: How is that part of the plan?** He could be sending these fliers in the mail, but, instead, he is wasting the one thing that we don't have an abundance of&#151;time&#151;&nbsp;by going door-to-door and leaving fliers. He is going to think that door-knocking doesn't work because nobody will call from the flier. In reality, what he did isn’t even considered door-knocking.
 
 This is where planning comes into place. While you don't have to draw up a business plan today, **you should think about what your four pillars of income are.** What are the four things that you need to do every day systematically to generate a regular income stream? You could be calling for sale by owners, contacting expired listings, writing thank you notes, etc.
 
