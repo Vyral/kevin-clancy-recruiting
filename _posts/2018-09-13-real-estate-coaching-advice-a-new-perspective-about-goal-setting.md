@@ -22,7 +22,7 @@ youtube_code: Ex17Q0MCJQs
 
 {% include youtube.html %}
 
-If you’re concerned about not meeting your goals exactly as you have set them, I have some advice for you that will hopefully help change your perspective and continue to grow.
+<p style="text-align: center;"><em>If you’re concerned about not meeting your goals exactly as you have set them, I have some advice for you that will hopefully help change your perspective and continue to grow.</em></p>
 
 Over the years in my business, I’ve learned a thing or two. So with my experience in mind, today I want to talk about goals and what’s really important about them.
 
