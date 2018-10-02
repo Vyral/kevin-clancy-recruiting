@@ -33,4 +33,4 @@ For example, I take my team to The Bahamas every year for a vacation, and last y
 
 This week, **think about what you want to be remembered for.** What will someone else write in your obituary? You don’t need to get a historical marker for yourself made, but if you think about what you want your legacy to be, it will change the way you do business and the way you think about life.
 
-As always, if you’re curious about joining our team and what we can do for your career, give me a call so we cans it down and grab a&nbsp; cup of coffee. I’d love to talk to you.
+As always, if you’re curious about joining our team and what we can do for your career, give me a call so we can sit down and grab a&nbsp; cup of coffee. I’d love to talk to you.
