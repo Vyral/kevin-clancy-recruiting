@@ -29,7 +29,7 @@ As I read some of these markers and learned about the people they were built for
 
 Writing your own obituary does something else important too—it makes you realize that life is finite. **We’re all going to die someday, so you might as well be yourself and live your own life.** While writing my obituary, I realized that my legacy—or my “why”—was to know that one person lived a better life because I existed.
 
-For example, I take my team to The Bahamas every year for a vacation, and last year before we took this vacation I learned that one of my employees never had a passport. They’d never been outside of the U.S. before, and it was nice to think that if I never existed, they perhaps never would’ve had that passport or the chance to travel outside the country.
+For example, I take my team to the Bahamas every year for a vacation, and last year before we took this vacation I learned that one of my employees never had a passport. They’d never been outside of the U.S. before, and it was nice to think that if I never existed, they perhaps never would’ve had that passport or the chance to travel outside the country.
 
 This week, **think about what you want to be remembered for.** What will someone else write in your obituary? You don’t need to get a historical marker for yourself made, but if you think about what you want your legacy to be, it will change the way you do business and the way you think about life.
 
