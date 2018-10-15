@@ -19,7 +19,7 @@ youtube_code: 84-UchT-mSk
 
 {% include youtube.html %}
 
-If you take the time to write your own material in the emails you send out to clients, you’ll be able to build your following much faster.
+<p style="text-align: center;"><em>If you take the time to write your own material in the emails you send out to clients, you’ll be able to build your following much faster.</em></p>
 
 When you send out emails to clients, are you writing them yourself or are you sending canned emails that you bought?&nbsp;
 
