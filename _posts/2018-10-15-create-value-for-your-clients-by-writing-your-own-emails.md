@@ -27,7 +27,7 @@ I’ve gotten a lot of emails lately from other Realtors about various topics th
 
 In 2012, I was named as the No. 1 Realtor in the Capital Region. How did I do it? Every Monday I would send out an email that I called the “Monday Morning Mojo,” which was a message of positive, observational thoughts I’d made over the previous week that didn’t really have anything to do with real estate.
 
-When I first started sending these out, though, I was buying them canned. Two keys to success are self awareness and authenticity, and in my case, I wasn’t being authentic. When you’re not writing your own material, you’re not being authentic. Once I started writing my emails, I was able to generate a following that numbered in the thousands. People began to know me because of my emails. My open rate was about 80%, which is unheard of for an email blast. If you’d like to see an example of one of these emails, click here. &nbsp;
+When I first started sending these out, though, I was buying them canned. Two keys to success are self awareness and authenticity, and in my case, I wasn’t being authentic. When you’re not writing your own material, you’re not being authentic. Once I started writing my emails, I was able to generate a following that numbered in the thousands. People began to know me because of my emails. My open rate was about 80%, which is unheard of for an email blast. If you’d like to see an example, you can check out the monday morning mojo <a href="https://mondaymorningmojowithkevin.wordpress.com/" target="_blank">here.</a> &nbsp;
 
 So, **instead of sending out canned emails that you bought, write something that actually provides knowledge and creates value for your clients.**&nbsp;
 
