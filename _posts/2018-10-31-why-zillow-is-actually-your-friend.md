@@ -19,7 +19,7 @@ youtube_code: ZSQflgvxDgA
 
 {% include youtube.html %}
 
-Those who say that Zillow is ruining the real estate industry really don’t know what they’re talking about. Here’s why.
+<p style="text-align: center;"><em>Those who say that Zillow is ruining the real estate industry really don’t know what they’re talking about. Here’s why.</em></p>
 
 I go on listing appointments every day and talk to agents every day who are down on Zillow and think it’s ruining our industry. However, I’ve had the opportunity to meet with top executives from Zillow in D.C. as well as the CEO of Century 21 and former Zillow Executive Nick Bailey. **I actually love Zillow and what it’s doing for the industry. Here’s why.**
 
