@@ -18,7 +18,7 @@ youtube_code: LdCeBkF0vrk
 
 {% include youtube.html %}
 
-With the holidays just around the corner and our market slowing down, now is the time to remain persistent.
+<p style="text-align: center;"><em>With the holidays just around the corner and our market slowing down, now is the time to remain persistent.</em></p>
 
 As you probably remember from some of my recent messages, I recently ran my first marathon. And I’ve got to tell you, it was a challenge. Around the sixth or seventh mile into the race, things started getting really tough. Even so, one concept kept me going: Persistence.&nbsp;
 
