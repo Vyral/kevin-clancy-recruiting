@@ -21,7 +21,7 @@ youtube_code: 98kZ-L3PEx4
 
 {% include youtube.html %}
 
-Whether in life or business, surrounding yourself with people who are more successful than you is one of the biggest favors you can do for yourself.
+<p style="text-align: center;"><em>Whether in life or business, surrounding yourself with people who are more successful than you is one of the biggest favors you can do for yourself.</em></p>
 
 The holidays can be a tough time for real estate, but don’t let that stop you from chasing success. There are a number of things you can do to stay successful no matter the state of the market, and one of the best ways is by **surrounding yourself with greatness.&nbsp;**
 
