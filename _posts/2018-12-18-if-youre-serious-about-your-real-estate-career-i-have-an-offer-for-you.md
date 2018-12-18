@@ -19,7 +19,7 @@ youtube_code: Waz-iHEfb50
 
 {% include youtube.html %}
 
-Are you serious about your real estate career? In that case, I have an opportunity for you.
+<p style="text-align: center;"><em>Are you serious about your real estate career? In that case, I have an opportunity for you.</em></p>
 
 Now that the holidays are here, I have an opportunity to share with you and I want to talk a little about what’s happening in our industry.&nbsp;
 
