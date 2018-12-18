@@ -36,3 +36,5 @@ That being said, here’s my gift I want to offer you: If you’re serious about
 However, you need to be the right person for the job. There’s no barrier for entry into our business, and a lot of people get into thinking they’ll be driving a Mercedes 550 and making a few hundred grand a year without actually working. As we know, the reality is far different. **Real estate is a great career, but it takes work.**&nbsp;
 
 If you’re interested in this opportunity, don’t hesitate to give me a call or shoot me an email. I look forward to hearing from you, and I hope you have an absolutely fantastic holiday with your family.
+
+P.S. Our office is an unofficial drop-off site for Toys for Tots, so if you have any toys you’d like to donate this year, give them to us and we’ll make sure they find their way to this great organization.
