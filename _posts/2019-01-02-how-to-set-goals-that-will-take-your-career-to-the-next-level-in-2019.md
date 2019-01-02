@@ -21,7 +21,7 @@ youtube_code: OWtNNYtsz2s
 
 {% include youtube.html %}
 
-If you want to take your career to the next level in 2019, start by setting goals that seem impossible to you.
+<p style="text-align: center;"><em>If you want to take your career to the next level in 2019, start by setting goals that seem impossible to you.</em></p>
 
 Have you set your goals for 2019?&nbsp;
 
