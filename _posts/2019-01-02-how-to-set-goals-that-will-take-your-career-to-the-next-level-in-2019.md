@@ -29,13 +29,13 @@ If you haven’t already made a business plan for 2019, **now’s the time to ge
 
 **When setting your goals, you want to have a BHAG, or a “big, hairy, audacious goal.”** For example, what’s the highest number of homes you think you can sell? 75? Double it and shoot for 150.&nbsp;
 
-When I got my start in real estate, I was selling homes out of my bedroom. I had no systems, processes, or CRMS to speak of. My leads were sticky notes stuck to my laptop. Things have changed a lot since then, but that’s because I had the will to succeed. When I was in that bedroom, I set a goal to sell 100 homes in one year. At the time, I thought that was impossible, but I ended up selling 105 homes.&nbsp;
+When I got my start in real estate, I was selling homes out of my bedroom. I had no systems, processes, or CRMs to speak of. My leads were sticky notes stuck to my laptop. Things have changed a lot since then, but that’s because I had the will to succeed. When I was in that bedroom, I set a goal to sell 100 homes in one year. At the time, I thought that was impossible, but I ended up selling 105 homes.&nbsp;
 
 {% include pullquote.html %}
 
 When you set a crazy-high goal, you start thinking of the systems and processes you need to achieve that goal. This effect relates to an all-important principle about goals: **It’s not achieving the goal that’s important—it’s about who you become while achieving that goal.&nbsp;**
 
-As you may know, I completed my very first marathon not too long ago, and you know what? It didn’t matter to me whether I finished that marathon or not. Obviously I wanted to finish it, but it’s who I became during the three months of training leading up to that marathon that was really important. I lost 30 pounds, my resting heart rate dropped, and I just became a better person overall.&nbsp;
+As you may know, I completed my very first marathon not too long ago, and you know what? It didn’t matter to me whether I finished that marathon or not. Obviously, I wanted to finish it, but it’s who I became during the three months of training leading up to that marathon that was really important. I lost 30 pounds, my resting heart rate dropped, and I just became a better person overall.&nbsp;
 
 The same principle applies to real estate. You need to set a goal that’s so high that you might assume you can’t possibly do it. Just by setting it, you’ll still achieve more.&nbsp;
 
