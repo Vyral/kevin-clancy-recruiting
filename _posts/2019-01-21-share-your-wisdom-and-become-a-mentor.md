@@ -17,7 +17,7 @@ youtube_code: ixOY1P2oXzA
 
 {% include youtube.html %}
 
-Mentoring doesn’t just help others. It helps you as well.
+<p style="text-align: center;"><em>Mentoring doesn’t just help others. It helps you as well.</em></p>
 
 2019’s here! I hope you had a great holiday season and are looking forward to making this year your best one yet. Though we’re hearing all sorts of news about how the real estate market will be heading downward, we can persevere; if you work hard and maintain the basics, you’re going to be successful in real estate.
 
