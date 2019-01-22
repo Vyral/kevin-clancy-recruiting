@@ -29,6 +29,6 @@ When you’re successful, it can be easy to forget about the rookies. **Take som
 
 In David Goggins’ book, “Can’t Hurt Me,” he talks about an instructor who trained two people on how to open a blocked airway. A few days later in a skydiving incident, the instructor’s airway became clogged and he was unable to breathe. **He was then saved by the two people he had trained just two days prior.**
 
-By mentoring others, the life we save is often our own. So I challenge you to take someone under your wing; what you’re truly giving is much, much more than advice. **And if you yourself are struggling, reach out to me and I’ll pull you up.** I want you to be successful, and with the great business we have in Albany real estate, we can all afford to help one another grow.
+By mentoring others, the life we save is often our own. So I challenge you to take someone under your wing; what you’re truly giving is much, much more than advice. **And if you yourself are struggling, reach out to me, and I’ll pull you up.** I want you to be successful, and with the great business we have in Albany real estate, we can all afford to help one another grow.
 
 Contact me if you have any questions, have information, or simply need some help. I look forward to hearing from you soon.
