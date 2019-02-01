@@ -20,7 +20,7 @@ youtube_code: 9P1ZkDRs5xM
 
 {% include youtube.html %}
 
-How are you faring with your New Year’s Resolutions? Here’s how you can be sure you’ll have success with your goals for 2019, in real estate or otherwise.
+<p style="text-align: center;"><em>How are you faring with your New Year’s Resolutions? Here’s how you can be sure you’ll have success with your goals for 2019, in real estate or otherwise.</em></p>
 
 We’re a month into 2019, which means it’s time to take initial stock of our New Year’s Resolutions that we set for ourselves. Hopefully, yours are still intact and that’s what today’s message is about.&nbsp;
 
