@@ -5,7 +5,7 @@ date: 2019-02-01 21:53:47
 tags:
   - Real Estate
 excerpt: >-
-  How are you faring with your New Year’s Resolutions? Here’s how you can be
+  How are you faring with your New Year’s resolutions? Here’s how you can be
   sure you’ll have success with your goals for 2019, in real estate or
   otherwise.
 enclosure: >-
@@ -20,9 +20,9 @@ youtube_code: 9P1ZkDRs5xM
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>How are you faring with your New Year’s Resolutions? Here’s how you can be sure you’ll have success with your goals for 2019, in real estate or otherwise.</em></p>
+<p style="text-align: center;"><em>How are you faring with your New Year’s resolutions? Here’s how you can be sure you’ll have success with your goals for 2019, in real estate or otherwise.</em></p>
 
-We’re a month into 2019, which means it’s time to take initial stock of our New Year’s Resolutions that we set for ourselves. Hopefully, yours are still intact and that’s what today’s message is about.&nbsp;
+We’re a month into 2019, which means it’s time to take initial stock of our New Year’s resolutions that we set for ourselves. Are yours still intact?&nbsp;
 
 I came across a statistic recently that left me dumbfounded: **92% of us will fail to live up to our resolutions by Valentine’s Day.** This obviously gave me pause—why do so many of us seem to fail in this way? We all have good intentions with our goals, whether they be in real estate, fitness, lifestyle, and so on.&nbsp;
 
@@ -30,9 +30,9 @@ What it boils down to is that **we sometimes fail to rise to the level of our go
 
 You know the old clich&eacute;: Successful people do what failures do not. This is partly true, but more importantly, **successful people *consistently* do what failures occasionally do.&nbsp;**
 
-In a real estate sense, our office has more leads than we can handle, and it all takes is carving out two hours a day to pick up the phone and go after those leads. Following that approach is an easy, surefire way to sell 25 to 30 homes and make $100,000 a year. &nbsp;
+In a real estate sense, our office has more leads than we can handle, and all it takes is carving out two hours a day to pick up the phone and go after those leads. Following that approach is an easy, surefire way to sell 25 to 30 homes and make $100,000 a year. &nbsp;
 
-**Another key piece for hitting your goals is to take on some sort of identity.** I recently spoke to an ultramarathoner and in conversation with him, I mentioned that I’m a runner as well. This is the first time in my life that I’ve assumed an identity of being a runner. Having that identity fuels me to get out of bed to do my morning runs.
+**Another key piece for hitting your goals is to take on some sort of identity.** I recently spoke to an ultramarathoner and in conversation with him, I mentioned that I’m a runner as well. This is the first time in my life that I’ve assumed the identity of being a runner. Having that identity fuels me to get out of bed to do my morning runs.
 
 {% include pullquote.html %}
 
