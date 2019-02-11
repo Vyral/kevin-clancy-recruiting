@@ -1220,54 +1220,45 @@ html[xmlns] .flexslider .slides {
       vertical-align: middle;
       margin-left: 10px; }
 
-.cta-sidebar-container {
+.photo-cta {
   width: 100%;
-  border: 1px solid #cfcfcf;
-  border-radius: 0px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  margin-bottom: 20px;
-  margin-top: 20px;
-  overflow: hidden; }
-  .cta-sidebar-container .cta-img-container a img {
-    max-width: 100%;
-    width: 1000px; }
-  .cta-sidebar-container h5 {
-    padding-left: 10px; }
-  .cta-sidebar-container p {
-    font-size: 18px;
-    padding: 10px;
-    color: #555; }
+  line-height: 20px;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  margin-bottom: 20px; }
 
-.ctacontainer {
-  margin: 0px auto 30px; }
+.photo-cta-container {
+  width: 70%;
+  margin-left: 15%; }
 
-.ctalink {
+.cta-button {
+  position: absolute;
+  bottom: 20px;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background: #22933e;
-  border: 1px solid #22933e;
-  border-radius: 0px;
-  padding: 10px 20px;
+  display: block;
+  color: #22933e;
+  background-color: #fff;
+  border: 2px solid #22933e;
   text-decoration: none;
-  font-size: 18px;
-  color: white;
-  -webkit-transition: all 0.15s ease-out 0s;
-  transition: all 0.15s ease-out 0s; }
-  .ctalink a {
-    text-align: center; }
-  .ctalink:hover {
-    background: #fff;
-    color: #22933e;
-    border: 1px solid #22933e; }
-  .ctalink:active {
-    box-shadow: 0 0 0 #22933e;
-    -webkit-transform: translateY(0rem);
-    transform: translateY(0rem); }
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  left: 100px;
+  right: 100px;
+  text-align: center; }
+  .cta-button a {
+    color: #22933e; }
+  .cta-button:hover {
+    border: 2px solid #fff;
+    color: #fff;
+    background-color: #22933e; }
+    .cta-button:hover a {
+      color: #fff; }
 
 .jp-audio {
   border: 0;
@@ -1406,6 +1397,31 @@ html[xmlns] .flexslider .slides {
   padding-right: 15px;
   padding-left: 15px; }
 
+.navbar-left {
+  margin-top: 2rem; }
+
+.navbar-right {
+  margin-top: 2rem; }
+  .navbar-right a {
+    font-weight: bold;
+    color: #22933e; }
+
+.nav-logo {
+  float: left !important;
+  max-width: 125px;
+  margin: 5px;
+  padding: 10px; }
+
+@media (max-width: 760px) {
+  .nav-logo {
+    display: none; }
+
+  .hero-img {
+    height: 300px; }
+
+  .nav-logo-small {
+    max-width: 125px;
+    margin-top: -10px; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1416,12 +1432,6 @@ html[xmlns] .flexslider .slides {
     overflow: hidden;
     display: none;
     opacity: 0; } }
-.brand-color {
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  background: #000;
-  -webkit-animation: 0.3s fadein ease-in-out;
-          animation: 0.3s fadein ease-in-out; }
-
 .navbar-andross-bottom {
   background: #000;
   color: #fff;
@@ -1482,14 +1492,15 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 10rem; }
+  height: 400px; }
 
 #hero {
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  text-align: center; }
+  text-align: center;
+  padding-top: 7.5rem; }
 
 .site-logo {
   width: 90%;
@@ -1498,13 +1509,10 @@ label.tree-toggle {
   filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0.8)); }
 
 .site-title {
-  color: white;
-  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.8);
-  text-transform: uppercase;
-  font-size: 5rem;
-  font-weight: bold;
-  padding-bottom: 4rem;
-  padding-top: 1rem;
+  color: #22933e;
+  text-align: center;
+  font-weight: 400;
+  padding-bottom: 2rem;
   margin-bottom: 0; }
 
 @media (max-width: 1100px) {
@@ -1675,6 +1683,9 @@ h5 {
 
 h6 {
   font-size: 1.5rem; }
+
+ul {
+  list-style: disc; }
 
 .left {
   text-align: left; }
@@ -2671,7 +2682,10 @@ form select {
   margin-top: 1.5rem; }
 
 .recruiting-page {
-  Font-size: 18px; }
+  Font-size: 18px;
+  width: 85%;
+  margin: 0 auto;
+  color: #000; }
 
 .page-logo {
   width: 90%;
@@ -2684,6 +2698,73 @@ form select {
 .page-hero-img {
   background-position: center;
   background-size: cover; }
+
+.join-us {
+  font-weight: bold;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto; }
+
+.join-us-subtitle {
+  font-weight: 400;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto 2rem auto; }
+
+.mySlides img {
+  display: block;
+  margin: 0 auto;
+  width: 50%; }
+
+.slide-container {
+  color: #000;
+  padding: 3rem 0; }
+
+.slide-area {
+  display: block;
+  margin: 0 auto; }
+
+.slide-button {
+  background-color: #22933e;
+  color: #fff; }
+  .slide-button:hover {
+    background-color: #fff;
+    color: #22933e;
+    border: 1px solid #22933e; }
+  .slide-button:focus {
+    background-color: #fff;
+    color: #22933e;
+    border: 1px solid #22933e; }
+
+.slide-navigation {
+  text-align: center; }
+
+.slide-caption {
+  text-align: center;
+  padding: 10px;
+  font-style: italic;
+  font-size: 20px;
+  color: #000; }
+
+.qanda {
+  width: 80%;
+  margin-left: 5%; }
+
+.section-title {
+  color: #22933e;
+  font-weight: bold; }
+
+.author {
+  color: #22933e; }
+
+.indent {
+  margin-left: 4rem; }
+
+.fb-page {
+  width: 70%;
+  margin-left: 15%; }
 
 .e2ma_signup_form_label {
   color: #555 !important;
