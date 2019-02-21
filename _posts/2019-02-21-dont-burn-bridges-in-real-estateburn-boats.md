@@ -21,7 +21,7 @@ youtube_code: u8uj_nsmMSo
 
 {% include youtube.html %}
 
-<p style-"text-align: center;"><em>To succeed in this industry, you have to burn your boats. Let me tell you what that means.</em></p>
+<p style="text-align: center;"><em>To succeed in this industry, you have to burn your boats. Let me tell you what that means.</em></p>
 
 In real estate, you don’t want to burn your bridges. However, you do want to burn your boats.&nbsp;
 
