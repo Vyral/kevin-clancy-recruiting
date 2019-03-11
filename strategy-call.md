@@ -20,7 +20,7 @@ permalink: /strategy-call/
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
-<p>My name is Kevin Clancy and I’ve sold ____ of homes to date.</p>
+<p>My name is Kevin Clancy and I’ve sold 2,000 of homes to date.</p>
 
 <p>I want to help you sell more homes.</p>
 
@@ -34,20 +34,29 @@ permalink: /strategy-call/
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
-<!-- <hr>
+<hr>
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">I was blessed to met Kevin before getting my license. I have never worked for another brokerage and could not imagine being anywhere else. The unparalleled atmosphere drives you to succeed and not to mention the leads are consistently coming in as fast as you handle them.</span><br>
+<span class="author">- Derek Devenpeck</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">Prior to Team Clancy I was a struggling agent, since joining my business has increased dramatically! Kevin provides every agent leads, a personal business plan to reach your goals and first class marketing.</span><br>
+<span class="author">- Wayne Carignan</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">Working here is is being part of a team, not an office.  Everyone on the team is upbeat and wants to see the other members succeed.</span><br>
+<span class="author">- Dave Greco</span></p>
+
+<p><span class="quote">I love working on The Clancy Team! We have unlimited support. We all help each other! We are family! The leads we get and all the support we get from Kevin is amazing and unheard of in other Real Estate firms.</span><br>
+<span class="author">- Jacki Moon</span></p>
+
+<p><span class="quote">Clancy real estatate is the true team environment with everyone helping each other reach their goals.</span><br>
+<span class="author">- Kristen Hess</span></p>
+
+<p><span class="quote">I am so happy to be on a team that provides us with leads. I realized I was struggling and there is no need to. I am so thankful to be a part of Clancy Real Estate</span><br>
+<span class="author">- Karen Heath</span></p>
 </div>
-<hr> -->
+<hr>
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
 
