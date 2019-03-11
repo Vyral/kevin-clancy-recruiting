@@ -19,7 +19,7 @@ youtube_code: w-bcbWVrsN0
 
 {% include youtube.html %}
 
-People always ask me what sets me apart, and I’m excited to share my answer with you now.
+<p style="text-align: center;"><em>People always ask me what sets me apart, and I’m excited to share my answer with you now.</em></p>
 
 People always ask me, “What sets you apart?”
 
