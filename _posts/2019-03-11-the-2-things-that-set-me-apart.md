@@ -35,7 +35,7 @@ It all comes down to the two traits I mentioned earlier, which I’ll list for y
 
 **2. I commit myself to constant learning.** As a real estate professional, I’m always looking for educational opportunities. Wise people know how little they know. It’s okay not to know everything, so long as you’re always striving to know more. I devour audiobooks while I run, travel to attend conferences, and am always looking to connect with my fellow agents. Knowledge is power, but it’s also wealth.&nbsp;
 
-These two things have really been at the core of my business. They drive everything I do, and have been the foundation for my success from the very beginning.&nbsp;
+These two things have really been at the core of my business. They drive everything I do, and they've been the foundation for my success from the very beginning.&nbsp;
 
 Now that I’ve covered our main topic, I’d also like to share an exciting opportunity for you to earn $1,500. Here’s how:&nbsp;
 
