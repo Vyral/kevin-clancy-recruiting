@@ -10,9 +10,9 @@ permalink: /subscribe/
 <div id="letterhead-title">Sell More Homes In Less Time</div>
 <p>Get access to our own internal training we provide our agents.</p></div>
 <hr>
-<!-- <p>Dear Real Estate Agent:</p>
+<p>Dear Real Estate Agent:</p>
 
-<p>Are you looking for training that teaches you exactly what you need to do to sell homes specifically right here in {{site.data.settings.client.market}}?</p>
+<p>Are you looking for training that teaches you exactly what you need to do to sell homes specifically right here in the Capital Region?</p>
 
 <p>I invite you to subscribe to our free real estate agent training newsletter.</p>
 
@@ -28,11 +28,11 @@ permalink: /subscribe/
 
 <p>We have no intention of recruiting you - that’s a conversation with us when you are ready, if at all.</p>
 
-<p>Last year 28,824 homes sold in the greater {{site.data.settings.client.market}} market.</p>
+<p>Last year around 6,000 homes sold in the greater Capital Region market.</p>
 
 <p>That’s plenty of business to go around for all of us.</p>
 
-<p>We’ve been fortunate to sell 179 homes last year and our average agent earns six figures a year with us.</p>
+<p>We’ve been fortunate to sell over 250 homes last year and our average agent earns $75,000 a year with us.</p>
 
 <p>The same training they get will help you do it as well.</p>
 
@@ -52,11 +52,17 @@ permalink: /subscribe/
 <div class="testimonial-inline">
 <p><strong>Here’s what a few agents say about our free training:</strong></p>
 
-<p class="testimonial-text indent">“This training is great!” <span class="testimonial-author">- Bob</span></p>
+<p class="testimonial-text indent">“I was blessed to met Kevin before getting my license. I have never worked for another brokerage and could not imagine being anywhere else. The unparalleled atmosphere drives you to succeed and not to mention the leads are consistently coming in as fast as you handle them.” <span class="testimonial-author">- Derek Devenpeck</span></p>
 
-<p class="testimonial-text indent">“This training is great!” <span class="testimonial-author">- Bob</span></p>
+<p class="testimonial-text indent">"Prior to Team Clancy, I was a struggling agent, since joining my business has increased dramatically! Kevin provides every agent leads, a personal business plan to reach your goals and first-class marketing.” <span class="testimonial-author">- Wayne Carignan</span></p>
 
-<p class="testimonial-text indent">“This training is great!” <span class="testimonial-author">- Bob</span></p>
+<p class="testimonial-text indent">“Working here is is being part of a team, not an office. Everyone on the team is upbeat and wants to see the other members succeed.” <span class="testimonial-author">- Dave Greco</span></p>
+
+<p class="testimonial-text indent">“I love working on The Clancy Team! We have unlimited support. We all help each other! We are a family! The leads we get and all the support we get from Kevin is amazing and unheard of in other Real Estate firms.” <span class="testimonial-author">- Jacki Moon</span></p>
+
+<p class="testimonial-text indent">“Clancy real estate is the true team environment with everyone helping each other reach their goals.” <span class="testimonial-author">- Kristen Hess</span></p>
+
+<p class="testimonial-text indent">“I am so happy to be on a team that provides us with leads. I realized I was struggling and there is no need to. I am so thankful to be a part of Clancy Real Estate” <span class="testimonial-author">- Karen Heath</span></p>
 </div>
 <hr>
 
@@ -66,8 +72,8 @@ permalink: /subscribe/
 
 <p>I’ll first answer your question by email, and if I think it would be of benefit to more people, I’ll answer it in a video.</p>
 
-<p>We look forward to staying in touch. Let’s raise the standard and training of all real estate agents in our {{site.data.settings.client.market}}.</p>
+<p>We look forward to staying in touch. Let’s raise the standard and training of all real estate agents in our area.</p>
 
-<p>I invite you to subscribe now below:</p> -->
+<p>I invite you to subscribe now below:</p>
 {% include subscribe.html %}
 </div>
