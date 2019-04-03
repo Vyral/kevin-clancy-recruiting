@@ -50,7 +50,7 @@ permalink: /strategy-call/
 <p><span class="quote">I love working on The Clancy Team! We have unlimited support. We all help each other! We are family! The leads we get and all the support we get from Kevin is amazing and unheard of in other Real Estate firms.</span><br>
 <span class="author">- Jacki Moon</span></p>
 
-<p><span class="quote">Clancy real estatate is the true team environment with everyone helping each other reach their goals.</span><br>
+<p><span class="quote">Clancy real estate is the true team environment with everyone helping each other reach their goals.</span><br>
 <span class="author">- Kristen Hess</span></p>
 
 <p><span class="quote">I am so happy to be on a team that provides us with leads. I realized I was struggling and there is no need to. I am so thankful to be a part of Clancy Real Estate</span><br>
