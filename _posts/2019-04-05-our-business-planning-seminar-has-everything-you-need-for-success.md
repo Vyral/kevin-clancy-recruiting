@@ -21,7 +21,7 @@ youtube_code: dgW9OX_i3aE
 
 {% include youtube.html %}
 
-If your business has been struggling, our upcoming event can turn it all around.
+<p style="text-align: center;"><em>If your business has been struggling, our upcoming event can turn it all around.</em></p>
 
 The spring market’s here, and I hope you’re staying busy out there! It’s a great market, and if you’re not finding some great business, something is wrong. If you’ve found you’re unable to take advantage of these multiple-offer situations and new listings, we need to talk and figure out what you should be doing.
 
