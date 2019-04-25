@@ -19,7 +19,7 @@ youtube_code: Fmu94b-O1K4
 
 {% include youtube.html %}
 
-Today I’ve got two incredible pieces of advice from real estate mogul Barbara Corcoran, and each of them has the power to transform your career.
+<p style="text-align: center;"><em>Today I’ve got two incredible pieces of advice from real estate mogul Barbara Corcoran, and each of them has the power to transform your career.</em></p>
 
 While shooting my latest commercial with Barbara Corcoran, she offered me some incredible advice. To paraphrase her words of wisdom, **“If you’re always grateful, you’ll always be successful.”**
 
