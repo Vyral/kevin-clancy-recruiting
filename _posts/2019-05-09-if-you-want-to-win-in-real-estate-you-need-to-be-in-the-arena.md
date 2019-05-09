@@ -21,9 +21,9 @@ youtube_code: v6cyTvvMKeU
 
 {% include youtube.html %}
 
-If you want to succeed in real estate, you need to get in the arena. Here’s what I mean by that.
+<p style="text-align: center;"><em>If you want to succeed in real estate, you need to get in the arena. Here’s what I mean by that.</em></p>
 
-“The credit belongs to the man who is actually in the arena.” - Theodore Roosevelt&nbsp;
+<em>“The credit belongs to the man who is actually in the arena.”</em> - Theodore Roosevelt&nbsp;
 
 This quote changed my life, and I was reminded of it recently by witnessing three buyers this past week drop out of multiple-offer situations without even making an offer. These buyers really liked the homes for sale, but they didn’t want to get stuck in a bidding war.&nbsp;
 
