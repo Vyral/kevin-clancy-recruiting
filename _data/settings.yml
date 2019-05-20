@@ -29,6 +29,12 @@ client:
   email: Kevin@ClancyRealEstate.com
   url: http://ClancyRealEstate.com
 
+post_ctas:
+  events_url: https://www.eventbrite.com/o/kevin-clancy-19821189842
+  events_image: /img/events.jpg
+  join_our_team_image: /img/join_our_team_full.jpg
+
+
 CTAs:
   # first_CTA_text: Request a Consultation
   # first_CTA_URL: http://www.albanynyhomevalues.com/
