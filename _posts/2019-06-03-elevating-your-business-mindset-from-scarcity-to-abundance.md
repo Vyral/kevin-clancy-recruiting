@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/YRzJSkVnCqM'
 
 {% include youtube.html %}
 
-Did you know that the terms ‘scarcity’ and ‘abundance’ can relate to your mindset? Keep reading to find out what I mean.
+<p style="text-align: center;"><em>Did you know that the terms ‘scarcity’ and ‘abundance’ can relate to your mindset? Keep reading to find out what I mean.</em></p>
 
 {% include events-cta.html %} {% include join-our-team-cta.html %}
 
