@@ -1,15 +1,8 @@
 ---
 layout: post
-title: >-
-  Spring is the time of year where our real estate market turns white-hot, and I
-  hope you’re enjoying the fruits of that in your own business. If you’re not,
-  it’s probably time to get to the root cause of why you’re struggling. In my
-  view, it can be best summed up like this: You either possess a scarcity
-  mindset or an abundance mindset, and the latter translates to success. To find
-  out what I mean, watch my latest video.
-date: 2019-06-03 14:27:03
+title: Elevating Your Business Mindset From Scarcity to Abundance
+date: 2019-06-03 14:27:00
 tags:
-  - Success in Real Estate
 excerpt: >-
   Did you know that the terms ‘scarcity’ and ‘abundance’ can relate to your
   mindset? Keep reading to find out what I mean.
