@@ -20,8 +20,6 @@ youtube_code: 'https://youtu.be/YRzJSkVnCqM'
 
 <p style="text-align: center;"><em>Did you know that the terms ‘scarcity’ and ‘abundance’ can relate to your mindset? Keep reading to find out what I mean.</em></p>
 
-{% include events-cta.html %} {% include join-our-team-cta.html %}
-
 Welcome back\!&nbsp;
 
 Now that the spring market is well underway, you should be enjoying the limitless potential to sell homes. For our part, my team is selling homes left and right and we have more leads than we know what to do with.&nbsp;
@@ -39,3 +37,5 @@ If you’re in the former, figure out how you can move to the latter and live th
 For all of its rewards and benefits, many in real estate struggle for any number of reasons. In large part, though, we simply don’t think big enough. **Sharpen your focus and dedicate yourself to your own success.&nbsp;**
 
 If you’re struggling with your business, don’t hesitate to give me a call at 518-461-9937 or email me at Kevin@ClancyRealEstate.com. I’d love to have a conversation with you, and there’s no obligation whatsoever. I look forward to speaking with you\!
+
+{% include events-cta.html %} {% include join-our-team-cta.html %}
