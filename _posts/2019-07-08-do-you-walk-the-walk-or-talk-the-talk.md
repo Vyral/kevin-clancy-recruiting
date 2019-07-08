@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/ZKrPtD2hwe4'
 
 {% include youtube.html %}
 
-As an agent, do you walk the walk, or do you talk the talk?
+<p style="text-align: center;"><em>As an agent, do you walk the walk, or do you talk the talk?</em></p>
 
 We have a brand-new agent on our team who has only had her license for about four weeks now. In that time with us, she has put four homes under contract. She’s absolutely killing it\!
 
