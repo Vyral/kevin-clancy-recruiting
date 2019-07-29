@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/RX17MjiQ2vs'
 
 {% include youtube.html %}
 
-If you want to succeed in real estate, you can’t always take the path of least resistance. Here’s why.
+<p style="text-align: center;"><em>If you want to succeed in real estate, you can’t always take the path of least resistance. Here’s why.</em></p>
 
 As you probably already know, water always takes the path of least resistance. And **in that same way, many people enter the real estate industry because of its low barrier of entry.** You simply take a class and then you’re in.&nbsp;
 
