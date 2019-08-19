@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/uBw6Nc2OcCg'
 
 {% include youtube.html %}
 
-Anybody can make money in real estate, but far fewer can make a consistent living month after month. Here’s why.
+<p style="text-align: center;"><em>Anybody can make money in real estate, but far fewer can make a consistent living month after month. Here’s why.</em></p>
 
 My team has absolutely been killing it lately. I have a brand-new agent who has seven homes under contract in just two months\! After she started getting her checks, however, she started asking me what she should put aside for taxes and how she can create a consistent income.
 
