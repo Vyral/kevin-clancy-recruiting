@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/oxq5PPhyaHw'
 
 {% include youtube.html %}
 
-Most agents spend too much time planning and not enough time doing. Here’s what I mean.
+<p style="text-align: center;"><em>Most agents spend too much time planning and not enough time doing. Here’s what I mean.</em></p>
 
 It’s fall and we’re already planning for 2020. If you aren’t, you need to start drawing out your business plan for next year right now.&nbsp;
 
