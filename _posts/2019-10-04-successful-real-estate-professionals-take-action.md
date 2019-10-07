@@ -27,9 +27,9 @@ However, today I want to talk about a new agent of mine. She’s only been licen
 
 {% include pullquote.html %}
 
-What is she doing differently? **She implements very quickly and has a sense of urgency to take action.** These are important things to do not only in real estate, but also in life generally. How many hours do we spend planning our scripts, or websites, or plans? My advice is to just get out and do it. Go make a phone call. Go knock on doors. Just do it.
+What is she doing differently? **She implements very quickly and has a sense of urgency to take action.** These are important things to do not only in real estate, but also in life generally. How many hours do we spend working on our scripts or websites, or making plans? My advice is to just get out and do it. Go make a phone call. Go knock on doors. Just do it.
 
-**It really is that simple.** I learned early on in my career how important a sense of urgency was. I spend three hours today just to go look at a property because one of my agents tipped me off that it was a home run. Those three hours are valuable, but if that property makes money for me in the future, three hours is a modest investment.&nbsp;
+**It really is that simple.** I learned early on in my career how important a sense of urgency was. I spent three hours today just to go look at a property because one of my agents tipped me off that it was a home run. Those three hours are valuable, but if that property makes money for me in the future, three hours is a modest investment.&nbsp;
 
 You have to take action in this business and take action quickly. If you want to take your career to the next level by taking action, give me a call or send me an email today. **I currently have two spots open for driven, goal-oriented agents who want to be successful in this business.**
 
