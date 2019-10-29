@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/Ki3F-YsP67g'
 
 {% include youtube.html %}
 
-If you’re looking to increase your bottom line, follow these three steps.
+<p style="text-align: center;"><em>If you’re looking to increase your bottom line, follow these three steps.</em></p>
 
 Sometimes, real estate professionals can make some pretty obvious mistakes. This isn’t anything to be ashamed of, of course. After all, no one is perfect.&nbsp;
 
