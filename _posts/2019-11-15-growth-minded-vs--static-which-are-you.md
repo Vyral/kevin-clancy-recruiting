@@ -19,6 +19,8 @@ youtube_code: iTau6vj_rmk
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are my main takeaways from Zillow Unlock 2019.</em></p>
+
 Now that I’m back from Zillow Unlock 2019, it’s time to talk about a couple of important issues that were addressed at this conference. The first is Zillow, itself. The second is the difference between a growth-oriented agent and a static one.&nbsp;
 
 I know everyone likes to rag on Zillow, but if you’re not using Zillow in your business, I think you’re making a mistake. I’ll let you in on a little secret: We Realtors always like to say how Zillow doesn’t know whether a home has updated features or not, but guess what? Now it does. Their new valuation tool can recognize whether a home has updated features, and this will change the face of real estate. They also have an iBuyer program they’re introducing that can make instant offers on houses.&nbsp;
