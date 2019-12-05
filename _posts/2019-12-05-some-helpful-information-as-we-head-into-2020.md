@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/mPgOXzWbneI'
 
 {% include youtube.html %}
 
-The new year will be here before you know it. Here are three things you should know heading into 2020.
+<p style="text-align: center;"><em>The new year will be here before you know it. Here are three things you should know heading into 2020.</em></p>
 
 I’ve got a few quick, important things to discuss today.&nbsp;
 
