@@ -27,9 +27,9 @@ I’ve got a few quick, important things to discuss today.&nbsp;
 
 {% include pullquote.html %}
 
-Next, I wanted to talk about client appreciation events. We just had ours a few weeks ago and had a blast. We gave out 200 apple pies, saw a lot of our clients, and even did a radio spot. **If you’re not doing an event like this, you should be.** It doesn’t matter what your budget is. You don’t have to go all out like we did, but maybe an open bar for a few hours with some of your clients. You could also rent out a movie theatre for a screening and get the whole family involved.
+Next, I wanted to talk about client appreciation events. We just had ours a few weeks ago and had a blast. We gave out 200 apple pies, saw a lot of our clients, and even did a radio spot. **If you’re not doing an event like this, you should be.** It doesn’t matter what your budget is. You don’t have to go all out like we did, but maybe you could do an open bar for a few hours with some of your clients. You could also rent out a movie theatre for a screening and get the whole family involved.
 
-**Finally, I just got back from the city and a fantastic meeting with Ryan Serhant from Million Dollar Listing.** Despite his TV frame, he’s still dedicated to the craft of real estate and such a gifted salesperson. It was awesome to learn from him and I’ve got some great marketing ideas to bring back to our business.
+**Finally, I just got back from the city and a fantastic meeting with Ryan Serhant from Million Dollar Listing.** Despite his TV fame, he’s still dedicated to the craft of real estate and such a gifted salesperson. It was awesome to learn from him and I’ve got some great marketing ideas to bring back to our business.
 
 Great things are coming in 2020. If you want to make $100,000 a year on our team, there are currently two spots open for the right candidates. Just reach out to me to apply.&nbsp;
 
