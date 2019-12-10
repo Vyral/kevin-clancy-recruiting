@@ -8,13 +8,13 @@ excerpt: >-
   The new year will be here before you know it. Here are three things you should
   know heading into 2020.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kevin+Clancy/Coaching/2019/Albany+Real+Estate+Agent-+Planning+for+2020-Client+Event.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Clancy/Coaching/2019/Albany+Real+Estate+Agent-+coaching+12.10.mp4
 pullquote: You should have client appreciation events no matter what your budget is.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/mPgOXzWbneI'
+youtube_code: 'https://youtu.be/ocGHlhfsA3Y'
 ---
 
 {% include youtube.html %}
