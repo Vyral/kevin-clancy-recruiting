@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/MKK45D0TjSI'
 
 {% include youtube.html %}
 
-Let us help you make 2020 your best year ever in real estate.
+<p style="text-align: center;"><em>Let us help you make 2020 your best year ever in real estate.</em></p>
 
 What do you plan to do differently in 2020? If you didn’t hit your goals or have the most amazing year ever this past year, what are you going to do differently in 2020 to ensure its the best it could be?
 
