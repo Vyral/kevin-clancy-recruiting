@@ -19,7 +19,7 @@ youtube_code: Dn39loFwBqg
 
 {% include youtube.html %}
 
-It’s 2020—have you started to meet your goals for the year yet? If not, this message is for you.
+<p style="text-align: center;"><em>It’s 2020—have you started to meet your goals for the year yet? If not, this message is for you.</em></p>
 
 Now that we’re several weeks into the new year, take a moment to reflect on your goals for 2020. Have you started the year on the right track? If not, here are my thoughts on why that may be.
 
