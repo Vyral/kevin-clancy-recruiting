@@ -25,13 +25,13 @@ Now that we’re several weeks into the new year, take a moment to reflect on yo
 
 We’re all human, and we don’t do things consistently because we want instant results. Whatever it was that you wanted to accomplish, whether it be prospecting more or sending out more mailers, you probably did it for the first few weeks but didn’t see instant results and felt discouraged.
 
-However, **the key to success is to consistently do those things that are proven to lead to success**—prospecting, writing thank-you notes, and getting out there to help your clients. I can give you the blueprints of success, but the key is to keep doing it even on the days you don’t want to.
+However, **the key to success is to consistently do those things that are proven to lead to success**—prospecting, writing thank-you notes, and getting out there to help your clients. I can give you the blueprints of success, but the key is to keep doing it even on the days you don’t want to do them.
 
 {% include pullquote.html %}
 
-Here’s a quick story for you: I was at Price Chopper the other day, and as I was checking out, my baggers asked if I had a cart. I was baffled because my cart was right there with me in the aisle. Then I realized that my bagger was blind; the cart was just out of his reach. He didn’t feel it, so he couldn’t tell if I had a cart or not. That guy was blind, but he got out to grind every single day. He wasn’t a victim. I couldn’t admire him more.
+Here’s a quick story for you: I was at Price Chopper the other day, and as I was checking out, my bagger asked if I had a cart. I was baffled because my cart was right there with me in the aisle. Then I realized that my bagger was blind; the cart was just out of his reach. He didn’t feel it, so he couldn’t tell if I had a cart or not. Though blind, he got out to grind every single day. He wasn’t a victim. I couldn’t admire him more.
 
-So many of us in real estate are victims, blaming our lack of success on things like our managers, the market, or on ourselves. Don’t be a victim. **You have no excuses this year to not make 2020 an absolutely amazing year in real estate.** Interest rates are down and we’re seeing tremendous buyer activity. This week alone, I put four homes under contract with multiple offers on them—you can do the same.
+So many of us in real estate act like victims, blaming our lack of success on things like our managers, the market, or on ourselves. Don’t be a victim. **You have no excuses to not make 2020 an absolutely amazing year in real estate.** Interest rates are down and we’re seeing tremendous buyer activity. This week alone, I put four homes under contract with multiple offers on them—you can do the same.
 
 If you’d like to learn about how we do things differently such that our agents are able to find success, don’t hesitate to reach out to us. We’re absolutely committed to helping you live an amazing life with an amazing career.
 
