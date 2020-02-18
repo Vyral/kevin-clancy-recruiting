@@ -20,7 +20,7 @@ youtube_code: btK8NW2O9r0
 
 {% include youtube.html %}
 
-Clancy Real Estate is all about: building people up to the point where they can live amazing lifestyles, make the money they want, and have fun in their careers. You can have all when you work with us.
+<p style="text-align: center;"><em>Clancy Real Estate is all about: building people up to the point where they can live amazing lifestyles, make the money they want, and have fun in their careers. You can have all when you work with us.</em></p>
 
 I just hired a new agent out of a completely different field from real estate—a job with the federal government. He walked away from a federal pension and is completely underemployed; so why am I so excited?
 
