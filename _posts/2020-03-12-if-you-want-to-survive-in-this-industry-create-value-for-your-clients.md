@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Tips for Creating Value & Staying Relevant in Real Estate
+title: 'If You Want to Survive in This Industry, Create Value for Your Clients'
 date: 2020-03-12 13:45:00
 tags:
+  - coaching
 excerpt: >-
   The spring market is extremely hot right now. Mortgage rates are at historic
   lows, and if you’re working on the buy side, you’re probably putting in
