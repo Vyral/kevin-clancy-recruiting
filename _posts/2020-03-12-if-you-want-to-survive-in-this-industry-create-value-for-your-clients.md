@@ -3,14 +3,13 @@ layout: post
 title: 'If You Want to Survive in This Industry, Create Value for Your Clients'
 date: 2020-03-12 13:45:00
 tags:
-  - coaching
 excerpt: >-
   The spring market is extremely hot right now. Mortgage rates are at historic
   lows, and if you’re working on the buy side, you’re probably putting in
   multiple offers for your clients and you might be struggling a bit. Today’s
-  market is different than what it was just five or10 years ago; many online
+  market is different than what it was just five or 10 years ago; many online
   sites like Zillow, Realtor.com, or Trulia have real estate agents scared
-  they’ll become obsolete.That doesn’t have to happen; the trick to staying
+  they’ll become obsolete. That doesn’t have to happen; the trick to staying
   alive in the industry is to bring your clients massive value. To learn how to
   do that, watch our latest video.
 enclosure: >-
