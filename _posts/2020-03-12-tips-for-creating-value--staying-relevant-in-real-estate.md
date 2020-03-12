@@ -3,7 +3,6 @@ layout: post
 title: Tips for Creating Value & Staying Relevant in Real Estate
 date: 2020-03-12 13:45:00
 tags:
-  - Coaching
 excerpt: >-
   The spring market is extremely hot right now. Mortgage rates are at historic
   lows, and if you’re working on the buy side, you’re probably putting in
@@ -20,7 +19,7 @@ pullquote: >-
   missing the boat.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/3.12_-_Kevin_SOI_-_YT.jpg
 youtube_code: 'https://youtu.be/M5WMJhkA0cA'
 ---
