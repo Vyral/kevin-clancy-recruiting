@@ -32,7 +32,7 @@ However, this has created a huge opportunity for us if we create massive value f
 
 Your job is to create massive value for your clients, to help keep them informed of things like the best school systems and the areas with the lowest tax rates—things that aren’t necessarily on the radar. Your job is to match them with your inventory and to guide them so they don’t overpay for a house that isn’t even a good fit for them. **If you’re just putting them in a search, they don’t need you**, and you’ll likely end up going out of business the same way that Expedia and Travelocity put travel agents out of business.
 
-I don’t believe that companies like Zillow will put us out of business; Zillow can be a great partner. **But the key for you to remain relevant is to create value by over-communicating with your clients and letting them know how much you care about them**. Your clients want to know that you’ll guide them and work toward their best interests.
+I don’t believe that companies like Zillow will put us out of business; Zillow can be a great partner. **The key for you to remain relevant is to create value by over-communicating with your clients and letting them know how much you care about them**. Your clients want to know that you’ll guide them and work toward their best interests.
 
 {% include pullquote.html %}
 
