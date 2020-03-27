@@ -22,7 +22,7 @@ youtube_code: 39sVd9eq3p0
 
 {% include youtube.html %}
 
-We’re going through a shift in our industry due to the coronavirus pandemic, and if you want to make it through to the other side, you need to do one powerful thing.
+<p style="text-align: center;"><em>We’re going through a shift in our industry due to the coronavirus pandemic, and if you want to make it through to the other side, you need to do one powerful thing.</em></p>
 
 As you might know, we’re currently under an executive order and we can’t do real estate the traditional way for the moment, though we can do virtual home tours, call existing clients, and other activities that can be done remotely and safely.
 
