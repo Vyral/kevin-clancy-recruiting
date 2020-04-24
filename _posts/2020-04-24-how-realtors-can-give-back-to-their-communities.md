@@ -9,7 +9,7 @@ excerpt: >-
   virus, I’d love to give you the contact information to a provider.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Kevin+Clancy/Coaching/2020/Albany+Real+Estate+Agent-+Do+You+Need+a+Mask_+coaching.mp4
-pullquote: 'I was able to source 1,000 K-95 masks for those who need them.'
+pullquote: 'I was able to source 1,000 N-95 masks for those who need them.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
