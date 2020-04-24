@@ -29,7 +29,7 @@ But perhaps more important than reaching out to discuss real estate, **you shoul
 
 Speaking of safety measures, I was recently at Price SHopper when I saw an elderly lady shopping without a mask or gloves. As you probably know, we’re mandated to wear masks out in public.&nbsp;
 
-I was able to source 1,000 K-95 masks for those who need them from a supplier in Hong Kong. **If you or someone you know needs any, I can give you his contact information.** It’s really important for us Realtors to be giving back to the community that supports us so strongly when the market is good. And though I know it’s hard to spend money, now is the time for us to step up.
+I was able to source 1,000 N-95 masks for those who need them from a supplier in Hong Kong. **If you or someone you know needs any, I can give you his contact information.** It’s really important for us Realtors to be giving back to the community that supports us so strongly when the market is good. And though I know it’s hard to spend money, now is the time for us to step up.
 
 And if there’s anything else my team can do for you or someone you know, reach out to us. Nothing would make me happier than to help keep you safe and healthy.
 
