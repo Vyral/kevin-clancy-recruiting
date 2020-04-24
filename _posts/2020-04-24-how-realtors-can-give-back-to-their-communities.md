@@ -19,7 +19,7 @@ youtube_code: 1ZikROjznOU
 
 {% include youtube.html %}
 
-If you or someone you know needs masks or supplies to help fight off the virus, I’d love to give you the contact information to a provider.
+<p style="text-align: center;"><em>If you or someone you know needs masks or supplies to help fight off the virus, I’d love to give you the contact information to a provider.</em></p>
 
 Even in spite of the virtual showings that we’ve been offering, my team has received a ton of requests for in-person home showings. Allowing them just isn’t worth it; you should, of course, be wearing masks and gloves when you must interact with people, but the current rules in place disallow agents from meeting with clients in person unless it is absolutely necessary. Virtual tools allow your clients’ transactions to move forward without any unnecessary risk.
 
