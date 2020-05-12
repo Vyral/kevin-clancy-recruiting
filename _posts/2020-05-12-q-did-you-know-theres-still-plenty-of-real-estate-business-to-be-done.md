@@ -19,7 +19,7 @@ youtube_code: hrLAEqndTpE
 
 {% include youtube.html %}
 
-Homes are still selling, and now’s a great time to focus on your business.
+<p style="text-align: center;"><em>Homes are still selling, and now’s a great time to focus on your business.</em></p>
 
 There is a ton of misinformation out there about the COVID-19 pandemic and what we agents can and can’t do in our business. As a broker, I have a duty to my team to make sure we’re abiding by the rules and meeting all guidelines, and this brings me to the point I want to share today: **We’re still selling real estate.&nbsp;**
 
