@@ -19,7 +19,7 @@ youtube_code: 81cG8CHPWZY
 
 {% include youtube.html %}
 
-Don’t underestimate the marketing power of handwritten notes.
+<p style="text-align: center;"><em>Don’t underestimate the marketing power of handwritten notes.</em></p>
 
 I was on a call recently with business owners to discuss marketing. I spend a fortune on marketing—I’m spending over $100,000 on radio, television, Zillow, and more. Not everyone can afford a marketing budget of that size, but ultimately, good marketing is all about how you position yourself and create value for your clients.
 
