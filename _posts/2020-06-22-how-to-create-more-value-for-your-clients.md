@@ -19,7 +19,7 @@ youtube_code: ys5CxIbSmn0
 
 {% include youtube.html %}
 
-Are you doing enough to create value? Here are some thoughts to chew on.
+<p style="text-align: center;"><em>Are you doing enough to create value? Here are some thoughts to chew on.</em></p>
 
 Obviously, COVID-19 is still affecting us (so be diligent with your safety measures), but the market is opening up. My team is busy working with buyers, and if you’re not doing the same, we need to talk, because the market is certainly there.&nbsp;
 
