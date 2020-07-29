@@ -19,7 +19,7 @@ youtube_code: TUirsKqTvZw
 
 {% include youtube.html %}
 
-Here’s how to win a multiple-offer situation.
+<p style="text-align: center;"><em>Here’s how to win a multiple-offer situation.</em></p>
 
 The market is red hot, and we’re seeing homes generate multiple offers and sell for tens of thousands of dollars over asking price. It’s absolutely insane\! What can we agents do to optimize this market? Right now, you have to work crazy hours and be super responsive to buyer leads that aren’t referrals. They won’t wait around for you to get back to them. If you take an hour to get back to them, they’ll call another agent.&nbsp;
 
