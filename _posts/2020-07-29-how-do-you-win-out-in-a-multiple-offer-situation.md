@@ -35,10 +35,10 @@ When it comes to escalation clauses, they’re a great addition to an offer, but
 
 {% include pullquote.html %}
 
-You can also include a pre-qualification letter (of which the state has their own guidelines) in your offer, but make sure it’s written by a solid local lender instead of a fly-by-night internet lender.&nbsp;
+You can also include a pre-qualification letter (for which the state has their own guidelines) in your offer, but make sure it’s written by a solid local lender instead of a fly-by-night internet lender.&nbsp;
 
 **So make sure your buyer has a solid lender, communicate well with the listing agent, summarize your offer when you send it, and confirm that the listing agent got your offer.** Also, don’t forget to ask questions about what the seller is looking for and what it will take to win the home.&nbsp;
 
-As always, if you have questions about this or any real estate topic, don’t hesitate to reach out to me. Additionally, if you’re not seeing the result you want to in your brokerage, give me a call. We have more buyers than we can handle, and I’d love for you to join our team. I look forward to hearing from you.
+As always, if you have questions about this or any real estate topic, don’t hesitate to reach out to me. Additionally, if you’re not seeing the results you want to in your brokerage, give me a call. We have more buyers than we can handle, and I’d love for you to join our team. I look forward to hearing from you.
 
 {% include events-cta.html %} {% include join-our-team-cta.html %}
