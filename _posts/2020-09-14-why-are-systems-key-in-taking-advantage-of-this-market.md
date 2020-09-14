@@ -19,7 +19,7 @@ youtube_code: vReowFW9uR0
 
 {% include youtube.html %}
 
-The systems you establish will help you take advantage of this market.
+<p style="text-align: center;"><em>The systems you establish will help you take advantage of this market.</em></p>
 
 As we near the end of summer, the market is going crazy. What’s happening? Why are we still seeing so many multiple-offer situations?&nbsp;
 
