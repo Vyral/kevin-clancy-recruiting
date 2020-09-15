@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Are Systems Key in Taking Advantage of This Market?
+title: Why Are Systems Key for Taking Advantage of This Market?
 date: 2020-09-14 17:26:18
 tags:
   - Transaction Management
@@ -23,7 +23,7 @@ youtube_code: vReowFW9uR0
 
 As we near the end of summer, the market is going crazy. What’s happening? Why are we still seeing so many multiple-offer situations?&nbsp;
 
-As an agent, the real question is this: How do you convert on this market? **The answer boils down to systems.** In other words, the systems you have in your business to take control of this volume. I’ve carried 80 pendings throughout the summer, and there’s no way I’d be able to do this without having systems in place.
+As an agent, the real question is this: How do you convert on this market? **The answer boils down to the systems you have** in your business to take control of this volume. I’ve carried 80 pendings throughout the summer, and there’s no way I’d be able to do this without having systems in place.
 
 {% include pullquote.html %}
 
