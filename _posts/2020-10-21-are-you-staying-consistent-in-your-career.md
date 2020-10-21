@@ -18,7 +18,7 @@ youtube_code: P71l7-cHTJE
 
 {% include youtube.html %}
 
-Staying consistent with your schedule will lead to success in real estate.
+<p style="text-align: center;"><em>Staying consistent with your schedule will lead to success in real estate.</em></p>
 
 Fall is here, and we’re not seeing much of a slowdown from our real estate market. We don’t know how long these conditions will last, and we shouldn’t be as busy as we are, but I’m not complaining. As they say, you have to make hay while the sun shines, and it’s time to make your Q4 push.&nbsp;
 
