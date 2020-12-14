@@ -17,7 +17,7 @@ youtube_code: Yh3EEayROYo
 
 {% include youtube.html %}
 
-My holiday message to you this year: Stay strong and safe this season.
+<p style="text-align: center;"><em>My holiday message to you this year: Stay strong and safe this season.</em></p>
 
 It’s the holiday season, I’m wearing my festive suit, and I want to thank everyone who co-brokered a deal with us this year. We appreciate you very much.&nbsp;
 
