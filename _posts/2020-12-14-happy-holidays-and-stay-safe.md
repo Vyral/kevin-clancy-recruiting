@@ -27,10 +27,10 @@ Unfortunately, small gatherings in homes are the top spreader of COVID-19 right 
 
 {% include pullquote.html %}
 
-We are very blessed as agents because so many of our small business friends are being decimated by the current situation. I appreciate each one of you, and I know I’m blessed to be in this profession. Keep all this in mind, and do what you can to support small businesses.
+We are very blessed as agents because, in contrast, so many of our small business friends are being decimated by the current situation. I appreciate each one of you, and I know I’m blessed to be in this profession. Keep all this in mind, and do what you can to support small businesses.
 
 **If you’re struggling in your real estate career or want to make a change in 2021, call me anytime.** My team is growing because we have so much business we can’t keep up with the demand.&nbsp;
 
-Have a joyful holiday season, merry Christmas, happy Hanukkah, happy Chanukah, whatever you celebrate, have a fantastic one\! If you ever have any questions about real estate, please call or email me. I would love to be a resource for you.
+Have a joyful holiday season, merry Christmas, happy Hanukkah&#151;whatever you celebrate, have a fantastic one\! If you ever have any questions about real estate, please call or email me. I would love to be a resource for you.
 
 {% include events-cta.html %} {% include join-our-team-cta.html %}
