@@ -17,7 +17,7 @@ youtube_code: zK8jI9RDtsg
 
 {% include youtube.html %}
 
-If you’re not happy with your current career, I have an opportunity to share.
+<p style="text-align: center;"><em>If you’re not happy with your current career, I have an opportunity to share.</em></p>
 
 In today’s post, I first want to discuss a career opportunity for you, and then I’ll talk about Clubhouse—if you’re not on Clubhouse, you need to be.
 
