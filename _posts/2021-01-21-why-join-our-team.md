@@ -21,7 +21,7 @@ youtube_code: zK8jI9RDtsg
 
 In today’s post, I first want to discuss a career opportunity for you, and then I’ll talk about Clubhouse—if you’re not on Clubhouse, you need to be.
 
-<u>Career Opportunities:</u>
+<strong><u>Career Opportunities:</u></strong>
 
 It’s 2021; did you hit your goals for 2020? If you didn’t, why not? Some agents I’ve talked to say that 2020 was their best year ever, while others are saying it was horrible. So why were some agents killing it and others weren’t? Well, around 66% of all agents in the market are working on teams. Team-style operations are taking over the real estate market.
 
@@ -33,7 +33,7 @@ One agent came to our team from a firm that only sold one home in the last six m
 
 If you’re not seeing those kinds of results in your current career and you’d like to talk about how you can do what we do for your business, I’d love to talk. I believe there’s enough business for everybody to go around. Of course, inventory is a little bit tight at the moment, so there will be some difficulties on the buying side. But we can still get it done.
 
-<u>Clubhouse:</u>
+<strong><u>Clubhouse:</u></strong>
 
 If you’re not already on Clubhouse, I highly recommend that you download the app and try it. You do need an invitation to download, so reach out to me if you need one. The app is very much like those old party lines that people used to use, where **you can host a conversation with multiple people, bounce ideas off each other, and generally collaborate**. It’s really awesome.
 
