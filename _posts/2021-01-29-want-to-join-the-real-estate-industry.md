@@ -17,7 +17,7 @@ youtube_code: KNxwO_k1NF4
 
 {% include youtube.html %}
 
-If you’re interested in the real estate industry, then join Team Clancy\!
+<p style="text-align: center;"><em>If you’re interested in the real estate industry, then join Team Clancy\!</em></p>
 
 Hello, I’m Barbara Corcoran, speaking today on behalf of Clancy Real Estate. In building the largest residential brokerage in New York City, I only hired people with a robust work ethic, exceptional talent, and passion. If that’s you, then you must work with the only team I work with, Clancy Real Estate. Just click [here](https://realestatecareersinalbany.com/join-our-team/){: target="_blank" rel="noopener"}to get started in the industry that gave me such a great career. Now is a wonderful time to start down the path to a career you love.
 
