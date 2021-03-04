@@ -25,7 +25,7 @@ The words I keep hearing are, “I can’t find a home,” and, “There’s no 
 
 {% include pullquote.html %}
 
-**Communicating is what top agents are doing to win.** I was on a Zoom call with Tom Ferry recently, and he says that 43% of all real estate agents in this country have never sold a home, it’s really concerning. We have so many people coming into this industry because they think it’s a great time to do so. It is, but it also requires a lot of work to get your offers accepted and get listings in such a low-inventory environment. 
+**Communicating is what top agents are doing to win.** I was on a Zoom call with Tom Ferry recently, and he says that 43% of all real estate agents in this country have never sold a home; it’s really concerning. We have so many people coming into this industry because they think it’s a great time to do so. It is, but it also requires a lot of work to get your offers accepted and get listings in such a low-inventory environment. 
 
 If you’d like to know how my team gets our offers accepted, give me a call. I have two spots available for agents who want to make $150,000 per year. I promised the youngest agent on my team that I’d help her win Rookie of the Year last year, and she did that while making 40 sales. 
 
