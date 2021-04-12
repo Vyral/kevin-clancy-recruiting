@@ -20,7 +20,7 @@ youtube_code: 60rJ8-I4kew
 
 {% include excerpt.html %}
 
-In the 30 years I’ve been in the real estate industry, I’ve never seen a market this tough. There’s still plenty of money to be made and plenty of business being done, but you may not be seeing that firsthand. **If you’re struggling in this difficult market, how do you compete?**
+In the 30 years that I’ve been in the real estate industry, I’ve never seen a market this tough. There’s still plenty of money to be made and plenty of business being done, but you may not be seeing that firsthand. **If you’re struggling in this difficult market, how do you compete?**
 
 I went on a listing appointment the other day, and I ended up seeing eight different agents there trying to secure the seller as a client. The reality is that that seller will end up choosing whichever agent provides the highest price and the lowest commission. That's not necessarily the kind of client we want, so we walked away from the deal. So, again, how do you compete when some sellers just go with the lowest commission?
 
