@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Difference Between Survivors & Thrivers
-date: 2021-06-21 13:19:01
+date: 2021-06-21 08:00:00
 tags:
   - Albany Real estate coaching
 excerpt: Are you surviving or are you thriving?
